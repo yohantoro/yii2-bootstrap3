@@ -5,10 +5,10 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\bootstrap;
+namespace yohantoro\yii2\bootstrap3;
 
 /**
- * \yii\bootstrap\Widget is the base class for all bootstrap widgets.
+ * \yohantoro\yii2\bootstrap3\Widget is the base class for all bootstrap widgets.
  *
  * @author Antonio Ramirez <amigo.cobos@gmail.com>
  * @author Qiang Xue <qiang.xue@gmail.com>

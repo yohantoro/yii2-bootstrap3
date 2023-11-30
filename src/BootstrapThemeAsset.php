@@ -5,7 +5,7 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\bootstrap;
+namespace yohantoro\yii2\bootstrap3;
 
 use yii\web\AssetBundle;
 
@@ -17,11 +17,11 @@ use yii\web\AssetBundle;
  */
 class BootstrapThemeAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/bootstrap/dist';
+    public $sourcePath = '@vendor/twbs/bootstrap/dist';
     public $css = [
         'css/bootstrap-theme.css',
     ];
     public $depends = [
-        'yii\bootstrap\BootstrapAsset',
+        'yohantoro\yii2\bootstrap3\BootstrapAsset',
     ];
 }

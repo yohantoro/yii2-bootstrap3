@@ -5,7 +5,7 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\bootstrap;
+namespace yohantoro\yii2\bootstrap3;
 
 use Yii;
 use yii\helpers\ArrayHelper;
@@ -18,8 +18,8 @@ use yii\helpers\ArrayHelper;
  * or [[\yii\widgets\Menu]] to build up such content. For example,
  *
  * ```php
- * use yii\bootstrap\NavBar;
- * use yii\bootstrap\Nav;
+ * use yohantoro\yii2\bootstrap3\NavBar;
+ * use yohantoro\yii2\bootstrap3\Nav;
  *
  * NavBar::begin(['brandLabel' => 'NavBar Test']);
  * echo Nav::widget([

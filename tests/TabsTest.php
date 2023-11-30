@@ -1,7 +1,7 @@
 <?php
 namespace yiiunit\extensions\bootstrap;
 
-use yii\bootstrap\Tabs;
+use yohantoro\yii2\bootstrap3\Tabs;
 use yii\helpers\Html;
 
 /**

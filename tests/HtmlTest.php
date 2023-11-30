@@ -3,7 +3,7 @@
 namespace yiiunit\extensions\bootstrap;
 
 use yii\base\DynamicModel;
-use yii\bootstrap\Html;
+use yohantoro\yii2\bootstrap3\Html;
 
 /**
  * @group bootstrap

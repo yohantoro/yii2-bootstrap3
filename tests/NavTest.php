@@ -3,7 +3,7 @@ namespace yiiunit\extensions\bootstrap;
 
 use yii\base\Action;
 use yii\base\Module;
-use yii\bootstrap\Nav;
+use yohantoro\yii2\bootstrap3\Nav;
 use yii\web\Controller;
 
 /**

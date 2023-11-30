@@ -5,7 +5,7 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\bootstrap;
+namespace yohantoro\yii2\bootstrap3;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -109,7 +109,7 @@ class Nav extends Widget
      * @var string name of a class to use for rendering dropdowns within this widget. Defaults to [[Dropdown]].
      * @since 2.0.7
      */
-    public $dropdownClass = 'yii\bootstrap\Dropdown';
+    public $dropdownClass = 'yohantoro\yii2\bootstrap3\Dropdown';
 
 
     /**

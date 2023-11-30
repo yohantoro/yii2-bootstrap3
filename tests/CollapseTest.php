@@ -2,7 +2,7 @@
 namespace yiiunit\extensions\bootstrap;
 
 use yii\base\DynamicModel;
-use yii\bootstrap\Collapse;
+use yohantoro\yii2\bootstrap3\Collapse;
 use yii\widgets\ActiveForm;
 
 /**

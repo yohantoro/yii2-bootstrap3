@@ -1,7 +1,7 @@
 <?php
 namespace yiiunit\extensions\bootstrap;
 
-use yii\bootstrap\NavBar;
+use yohantoro\yii2\bootstrap3\NavBar;
 
 /**
  * Tests for NavBar widget
