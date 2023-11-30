@@ -1,15 +1,12 @@
 {
-    "name": "yiisoft/yii2-bootstrap",
-    "description": "The Twitter Bootstrap extension for the Yii framework",
-    "keywords": ["yii2", "bootstrap"],
+    "name": "yohantoro/yii2-bootstrap3",
+    "description": "The Twitter Bootstrap 3 extension for the Yii framework",
+    "keywords": ["yii2", "bootstrap 3"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2-bootstrap/issues",
-        "forum": "https://www.yiiframework.com/forum/",
-        "wiki": "https://www.yiiframework.com/wiki/",
-        "irc": "ircs://irc.libera.chat:6697/yii",
-        "source": "https://github.com/yiisoft/yii2-bootstrap"
+        "issues": "https://github.com/yohantoro/yii2-bootstrap3/issues",
+        "source": "https://github.com/yohantoro/yii2-bootstrap3"
     },
     "authors": [
         {
@@ -33,7 +30,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.6",
-        "bower-asset/bootstrap": "3.4.* | 3.3.* | 3.2.* | 3.1.*"
+        "twbs/bootstrap": "3.4.*"
     },
     "require-dev": {
         "cweagans/composer-patches": "^1.7",
