@@ -1,5 +1,5 @@
 {
-    "name": "yohantoro/yii2-bootstrap3",
+    "name": "yohantoro/yii2/bootstrap3",
     "description": "The Twitter Bootstrap 3 extension for the Yii framework",
     "keywords": ["yii2", "bootstrap 3"],
     "type": "yii2-extension",
